@@ -3,3 +3,4 @@ pwd
 mkdir
 touch
 cd
+lw-ls
